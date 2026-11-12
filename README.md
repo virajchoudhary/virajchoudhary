@@ -1,6 +1,6 @@
 # Viraj Choudhary
 
-I'm a B.Tech Artificial Intelligence student at NMIMS, graduating in 2027, and a Software Engineering Intern at Kotak Mahindra Bank.
+I'm a B.Tech Artificial Intelligence student at NMIMS, graduating in 2027, and a Software Engineering Intern at Kotak Mutual Fund since May 2026.
 
 I work on backend APIs, applied ML evaluation, and developer infrastructure using Python, TypeScript, Django, FastAPI, PyTorch, and Docker.
 
